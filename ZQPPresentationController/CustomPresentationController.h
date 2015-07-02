@@ -10,4 +10,6 @@
 
 @interface CustomPresentationController : UIPresentationController
 
+@property (nonatomic, strong) UIView * dimingView;
+
 @end

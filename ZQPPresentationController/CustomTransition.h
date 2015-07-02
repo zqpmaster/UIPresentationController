@@ -11,4 +11,6 @@
 
 @interface CustomTransition : NSObject<UIViewControllerAnimatedTransitioning>
 
+@property (nonatomic, assign) BOOL isPresentation;
+
 @end

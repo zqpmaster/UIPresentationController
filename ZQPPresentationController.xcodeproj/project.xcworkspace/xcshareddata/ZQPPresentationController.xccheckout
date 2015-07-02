@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>2F1B458D-81C5-4675-B108-F77687565FF9</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>ZQPPresentationController</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>EAD8B3E999C58004F8A0CF8838B4932631B68A06</key>
 		<string>github.com:zqpmaster/UIPresentationController.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>ZQPPresentationController.xcodeproj/project.xcworkspace</string>
+	<string>ZQPPresentationController.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>EAD8B3E999C58004F8A0CF8838B4932631B68A06</key>
